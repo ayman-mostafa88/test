@@ -1,0 +1,120 @@
+{
+  "course": {
+    "title": "Course Title",
+    "modules": [
+      {
+        "title": "Module 1",
+        "chapters": [
+          {
+            "title": "Chapter 1",
+            "units": [
+              {
+                "title": "Unit 1",
+                "lessons": [
+                  {
+                    "title": "Lesson 1",
+                    "content": [
+                      {
+                        "type": "text",
+                        "title": "Card 1 Title",
+                        "value": "Card 1 Text",
+                        "media_url": "https://example.com/image1.jpg"
+                      },
+                      {
+                        "type": "text",
+                        "title": "Card 2 Title",
+                        "value": "Card 2 Text",
+                        "media_url": "https://example.com/image2.jpg"
+                      },
+                      {
+                        "type": "quiz",
+                        "questions": [
+                          {
+                            "question": "Question 1",
+                            "options": [
+                              "Option A",
+                              "Option B",
+                              "Option C"
+                            ],
+                            "correct_answer": 1
+                          },
+                          {
+                            "question": "Question 2",
+                            "options": [
+                              "Option A",
+                              "Option B",
+                              "Option C"
+                            ],
+                            "correct_answer": 2
+                          },
+                          {
+                            "question": "Question 3",
+                            "options": [
+                              "Option A",
+                              "Option B",
+                              "Option C"
+                            ],
+                            "correct_answer": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Lesson 2",
+                    "content": [
+                      {
+                        "type": "text",
+                        "title": "Card 1 Title",
+                        "value": "Card 1 Text",
+                        "media_url": "https://example.com/image3.jpg"
+                      },
+                      {
+                        "type": "text",
+                        "title": "Card 2 Title",
+                        "value": "Card 2 Text",
+                        "media_url": "https://example.com/image4.jpg"
+                      },
+                      {
+                        "type": "quiz",
+                        "questions": [
+                          {
+                            "question": "Question 1",
+                            "options": [
+                              "Option A",
+                              "Option B",
+                              "Option C"
+                            ],
+                            "correct_answer": 1
+                          },
+                          {
+                            "question": "Question 2",
+                            "options": [
+                              "Option A",
+                              "Option B",
+                              "Option C"
+                            ],
+                            "correct_answer": 2
+                          },
+                          {
+                            "question": "Question 3",
+                            "options": [
+                              "Option A",
+                              "Option B",
+                              "Option C"
+                            ],
+                            "correct_answer": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
